@@ -11,28 +11,27 @@ description: "This site is a public record of the Ong Lai Mun Charity Fund"
 people:
 - name: SEED
   pic: 1
-  position: Lead Researcher & Founder
   social:
     - title: webpage
       url: https://www.youtube.com/channel/UCUbr-n1cvqLvmmnKmA8JWzA
     - title: facebook
-      url: https://asvoria.wixsite.com/resume
+      url: https://www.facebook.com/SEEDFMalaysia/
 
-- name: Ian Munge
+- name: One Hope Charity
   pic: 2
-  position: dApp Developer
   social:
-    - title: github
-      url: https://github.com/ianmunge0
+    - title: webpage
+      url: https://www.youtube.com/channel/UCUbr-n1cvqLvmmnKmA8JWzA
+    - title: facebook
+      url: https://www.facebook.com/onehopecharitywelfare/
 
-- name: Eddy Kuan
+- name: Special Hands
   pic: 3
-  position: Developer
   social:
-    - title: twitter
-      url: #
-    - title: linkedin
-      url: #
+    - title: webpage
+      url: https://www.youtube.com/channel/UCUbr-n1cvqLvmmnKmA8JWzA
+    - title: facebook
+      url: https://www.facebook.com/acs.specialhands
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

@@ -9,16 +9,14 @@ description: "This site is a public record of the Ong Lai Mun Charity Fund"
 
 # Team names, titles and social links
 people:
-- name: Asvoria Kuan
+- name: SEED
   pic: 1
   position: Lead Researcher & Founder
   social:
-    - title: youtube
+    - title: webpage
       url: https://www.youtube.com/channel/UCUbr-n1cvqLvmmnKmA8JWzA
-    - title: file-text
+    - title: facebook
       url: https://asvoria.wixsite.com/resume
-    - title: linkedin
-      url: https://www.linkedin.com/in/asvoriakuan/
 
 - name: Ian Munge
   pic: 2

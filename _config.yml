@@ -37,17 +37,19 @@ people:
   pic: 3
   social:
     - title: globe
-      url: https://www.youtube.com/channel/UCUbr-n1cvqLvmmnKmA8JWzA
+      url: https://www.binance.charity/
     - title: facebook
-      url: https://www.facebook.com/acs.specialhands
+      url: https://www.facebook.com/BinanceBCF/
+    - title: twitter
+    url: https://twitter.com/BinanceBCF
 
 - name: Give.Asia
   pic: 3
   social:
     - title: globe
-      url: https://www.youtube.com/channel/UCUbr-n1cvqLvmmnKmA8JWzA
+      url: https://give.asia/
     - title: facebook
-      url: https://www.facebook.com/acs.specialhands
+      url: https://www.facebook.com/giveasia.org/
 
 - name: Special Hands
   pic: 3

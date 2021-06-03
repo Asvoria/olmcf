@@ -20,6 +20,7 @@ people:
 
 - name: One Hope Charity
   pic: 2
+  position: Description
   social:
     - title: globe
       url: http://www.onehopecharity.org/
@@ -28,6 +29,7 @@ people:
 
 - name: Special Hands
   pic: 3
+  position: Description
   social:
     - title: globe
       url: http://www.asiacommunityservice.org/
@@ -36,6 +38,7 @@ people:
 
 - name: Binance Charity
   pic: 3
+  position: Description
   social:
     - title: globe
       url: https://www.binance.charity/
@@ -46,6 +49,7 @@ people:
 
 - name: Give.Asia
   pic: 3
+  position: Description
   social:
     - title: globe
       url: https://give.asia/
@@ -54,6 +58,34 @@ people:
 
 - name: BEH SWEE CHENG
   pic: 3
+  position: Description
+  social:
+    - title: globe
+      url: https://www.youtube.com/channel/UCUbr-n1cvqLvmmnKmA8JWzA
+    - title: facebook
+      url: https://www.facebook.com/acs.specialhands
+
+- name: CHUN YIN LING
+  pic: 3
+  position: Description
+  social:
+    - title: globe
+      url: https://www.youtube.com/channel/UCUbr-n1cvqLvmmnKmA8JWzA
+    - title: facebook
+      url: https://www.facebook.com/acs.specialhands
+
+- name: MAH LAI MUN
+  pic: 3
+  position: Description
+  social:
+    - title: globe
+      url: https://www.youtube.com/channel/UCUbr-n1cvqLvmmnKmA8JWzA
+    - title: facebook
+      url: https://www.facebook.com/acs.specialhands
+
+- name: MD. TAYUB ABU TALEK
+  pic: 3
+  position: Description
   social:
     - title: globe
       url: https://www.youtube.com/channel/UCUbr-n1cvqLvmmnKmA8JWzA

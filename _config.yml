@@ -45,7 +45,7 @@ people:
     - title: facebook
       url: https://www.facebook.com/BinanceBCF/
     - title: twitter
-    url: https://twitter.com/BinanceBCF
+      url: https://twitter.com/BinanceBCF
 
 - name: Give.Asia
   pic: 3

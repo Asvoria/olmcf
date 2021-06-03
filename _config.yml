@@ -1,0 +1,51 @@
+url: https://asvoria.github.io
+baseurl: /olmcf/
+
+# Site settings
+title: Ong Lai Mun Charity Fund
+email: asvoria@live.com
+description: "This site is a public record of the Ong Lai Mun Charity Fund"
+
+
+# Team names, titles and social links
+people:
+- name: Asvoria Kuan
+  pic: 1
+  position: Lead Researcher & Founder
+  social:
+    - title: youtube
+      url: https://www.youtube.com/channel/UCUbr-n1cvqLvmmnKmA8JWzA
+    - title: file-text
+      url: https://asvoria.wixsite.com/resume
+    - title: linkedin
+      url: https://www.linkedin.com/in/asvoriakuan/
+
+- name: Ian Munge
+  pic: 2
+  position: dApp Developer
+  social:
+    - title: github
+      url: https://github.com/ianmunge0
+
+- name: Eddy Kuan
+  pic: 3
+  position: Developer
+  social:
+    - title: twitter
+      url: #
+    - title: linkedin
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/smartloan2
+  - title: comments-o
+    url: https://discord.gg/aJXAsgW3
+  - title: github
+    url: https://github.com/SmartLoan
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+theme: jekyll-theme-cayman

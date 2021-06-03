@@ -10,7 +10,7 @@ description: "This site is a public record of the Ong Lai Mun Charity Fund"
 # Team names, titles and social links
 people:
 - name: SEED
-  pic: 1
+  pic: 3
   position: Description
   social:
     - title: globe
@@ -19,7 +19,7 @@ people:
       url: https://www.facebook.com/SEEDFMalaysia/
 
 - name: One Hope Charity
-  pic: 2
+  pic: 3
   position: Description
   social:
     - title: globe

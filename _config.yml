@@ -12,23 +12,47 @@ people:
 - name: SEED
   pic: 1
   social:
-    - title: webpage
-      url: https://www.youtube.com/channel/UCUbr-n1cvqLvmmnKmA8JWzA
+    - title: globe
+      url: https://seedfoundation.com.my/
     - title: facebook
       url: https://www.facebook.com/SEEDFMalaysia/
 
 - name: One Hope Charity
   pic: 2
   social:
-    - title: webpage
-      url: https://www.youtube.com/channel/UCUbr-n1cvqLvmmnKmA8JWzA
+    - title: globe
+      url: http://www.onehopecharity.org/
     - title: facebook
       url: https://www.facebook.com/onehopecharitywelfare/
 
 - name: Special Hands
   pic: 3
   social:
-    - title: webpage
+    - title: globe
+      url: http://www.asiacommunityservice.org/
+    - title: facebook
+      url: https://www.facebook.com/acs.specialhands
+
+- name: Binance Charity
+  pic: 3
+  social:
+    - title: globe
+      url: https://www.youtube.com/channel/UCUbr-n1cvqLvmmnKmA8JWzA
+    - title: facebook
+      url: https://www.facebook.com/acs.specialhands
+
+- name: Give.Asia
+  pic: 3
+  social:
+    - title: globe
+      url: https://www.youtube.com/channel/UCUbr-n1cvqLvmmnKmA8JWzA
+    - title: facebook
+      url: https://www.facebook.com/acs.specialhands
+
+- name: Special Hands
+  pic: 3
+  social:
+    - title: globe
       url: https://www.youtube.com/channel/UCUbr-n1cvqLvmmnKmA8JWzA
     - title: facebook
       url: https://www.facebook.com/acs.specialhands

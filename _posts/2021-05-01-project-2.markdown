@@ -1,6 +1,6 @@
 ---
 title: Q1 2021
-subtitle: Quarterly Report
+subtitle: Quarterly
 layout: default
 modal-id: 2
 date: 2021-05-01

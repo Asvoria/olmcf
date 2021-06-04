@@ -3,11 +3,9 @@ title: Q1 2021
 subtitle: Quarterly
 layout: default
 modal-id: 2
-date: 
 img: Yellow_Tulips_by_Kailanie.jpg
 thumbnail: Yellow_Tulips_by_Kailanie.jpg
 alt: image-alt
 description: 
-github-link: 
 
 ---

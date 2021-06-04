@@ -10,7 +10,7 @@ description: "This site is a public record of the Ong Lai Mun Charity Fund"
 # Team names, titles and social links
 people:
 - name: SEED
-  pic: 3
+  pic: seed
   position: Description
   social:
     - title: globe
@@ -19,7 +19,7 @@ people:
       url: https://www.facebook.com/SEEDFMalaysia/
 
 - name: One Hope Charity
-  pic: 3
+  pic: one_hope
   position: Description
   social:
     - title: globe
@@ -28,7 +28,7 @@ people:
       url: https://www.facebook.com/onehopecharitywelfare/
 
 - name: Special Hands
-  pic: 3
+  pic: special_hands
   position: Description
   social:
     - title: globe
@@ -37,7 +37,7 @@ people:
       url: https://www.facebook.com/acs.specialhands
 
 - name: Binance Charity
-  pic: 3
+  pic: binance_cha
   position: Description
   social:
     - title: globe
@@ -48,7 +48,7 @@ people:
       url: https://twitter.com/BinanceBCF
 
 - name: Give.Asia
-  pic: 3
+  pic: giveasia
   position: Description
   social:
     - title: globe
@@ -57,40 +57,20 @@ people:
       url: https://www.facebook.com/giveasia.org/
 
 - name: BEH SWEE CHENG
-  pic: 3
+  pic: Yellow_Tulips_by_Kailanie
   position: Description
-  social:
-    - title: globe
-      url: https://www.youtube.com/channel/UCUbr-n1cvqLvmmnKmA8JWzA
-    - title: facebook
-      url: https://www.facebook.com/acs.specialhands
 
 - name: CHUN YIN LING
-  pic: 3
+  pic: chunyinling
   position: Description
-  social:
-    - title: globe
-      url: https://www.youtube.com/channel/UCUbr-n1cvqLvmmnKmA8JWzA
-    - title: facebook
-      url: https://www.facebook.com/acs.specialhands
 
 - name: MAH LAI MUN
-  pic: 3
+  pic: mahlaimun
   position: Description
-  social:
-    - title: globe
-      url: https://www.youtube.com/channel/UCUbr-n1cvqLvmmnKmA8JWzA
-    - title: facebook
-      url: https://www.facebook.com/acs.specialhands
 
 - name: MD. TAYUB ABU TALEK
-  pic: 3
+  pic: balukhali
   position: Description
-  social:
-    - title: globe
-      url: https://www.youtube.com/channel/UCUbr-n1cvqLvmmnKmA8JWzA
-    - title: facebook
-      url: https://www.facebook.com/acs.specialhands
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

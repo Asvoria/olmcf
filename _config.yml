@@ -47,6 +47,15 @@ people:
     - title: twitter
       url: https://twitter.com/BinanceBCF
 
+- name: Children's Cancer Foundation
+  pic: ccf
+  position: Children’s Cancer Foundation (CCF) is a social service agency with a mission to improve the quality of life of children with cancer and their families and children impacted by cancer through enhancing their emotional, social and medical well-being.
+  social:
+    - title: globe
+      url: https://www.ccf.org.sg/
+    - title: facebook
+      url: https://www.facebook.com/sgccf/
+
 - name: Give.Asia
   pic: giveasia
   position: Give.Asia is an online crowdfunding organization founded in 2009, GIVE.asia is Asia’s free fundraising platform for fundraisers to raise money for their causes.</br></br>
@@ -59,17 +68,14 @@ people:
 - name: MAH LAI MUN
   pic: mahlaimun
   position: Mah Lai Mun is a young woman who got bacterial infected kidney, causing multiple organ failure and needs long term continous medical care.</br></br></br>
-  social:
-    - title: facebook
-      url: https://www.facebook.com/galax.tom
-
-- name: BEH SWEE CHENG
-  pic: Yellow_Tulips_by_Kailanie
-  position: Beh Swee Cheng is an individual who one day found a stray dog in dire need of help. She is not working under any charitable organization. Funds are collected to pay for the animal transport from the streets to the vets. 
 
 - name: CHUN YIN LING
   pic: chunyinling
   position: Chun Yin Ling is an individual animal welfare activist who help stray dogs and cats. She is not working under any charitable organization. Funds are collected to pay for the animal transport from the streets to the vets. 
+
+- name: BEH SWEE CHENG
+  pic: Yellow_Tulips_by_Kailanie
+  position: Beh Swee Cheng is an individual who one day found a stray dog in dire need of help. She is not working under any charitable organization. Funds are collected to pay for the animal transport from the streets to the vets. 
 
 - name: MD. TAYUB ABU TALEK
   pic: balukhali

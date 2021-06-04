@@ -56,16 +56,19 @@ people:
     - title: facebook
       url: https://www.facebook.com/giveasia.org/
 
+- name: MAH LAI MUN
+  pic: mahlaimun
+  position: Description
+  social:
+    - title: facebook
+      url: https://www.facebook.com/galax.tom
+
 - name: BEH SWEE CHENG
   pic: Yellow_Tulips_by_Kailanie
   position: Description
 
 - name: CHUN YIN LING
   pic: chunyinling
-  position: Description
-
-- name: MAH LAI MUN
-  pic: mahlaimun
   position: Description
 
 - name: MD. TAYUB ABU TALEK

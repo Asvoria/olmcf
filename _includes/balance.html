@@ -9,19 +9,19 @@
                 </div>
             </div>
             <div class="row">
-            {% for post in site.reports %}
+            {% for report in site.reports %}
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+                    <a href="#portfolioModal{{ report.modal-id }}" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fab fa-readme"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                        <img src="img/portfolio/{{ report.thumbnail }}" class="img-responsive img-centered" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>{{ post.title }}</h4>
-                        <p class="text-muted">{{ post.subtitle }}</p>
+                        <h4>{{ report.title }}</h4>
+                        <p class="text-muted">{{ report.subtitle }}</p>
                     </div>
                 </div>
             {% endfor %}

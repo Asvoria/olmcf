@@ -15,15 +15,6 @@ layout: default
     {% endfor %}
   </ul>
 
-  <ul class="reports">
-    {% for report in site.reports %}
-      <li>
-        <span class="post-date">{{ report.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ report.url | prepend: site.baseurl }}">{{ report.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>

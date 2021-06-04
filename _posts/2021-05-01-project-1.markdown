@@ -6,6 +6,6 @@ modal-id: 1
 img: Yellow_Tulips_by_Kailanie.jpg
 thumbnail: Yellow_Tulips_by_Kailanie.jpg
 alt: image-alt
-description: {% include balance.html %}
+description: \{% include balance.html %}
 
 ---

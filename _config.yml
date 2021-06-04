@@ -35,18 +35,18 @@ people:
       url: http://www.asiacommunityservice.org/
     - title: facebook
       url: https://www.facebook.com/acs.specialhands
-[//]: <> (
-- name: Binance Charity
-  pic: binance_cha
-  position: Binance Charity is a Blockchain Charity Foundation that aims to transform philanthropy by developing a 100% transparent donation platform that reaches individual beneficiaries through blockchain technology.
-  social:
-    - title: globe
-      url: https://www.binance.charity/
-    - title: facebook
-      url: https://www.facebook.com/BinanceBCF/
-    - title: twitter
-      url: https://twitter.com/BinanceBCF
-)
+
+# - name: Binance Charity
+#   pic: binance_cha
+#   position: Binance Charity is a Blockchain Charity Foundation that aims to transform philanthropy by developing a 100% transparent donation platform that reaches individual beneficiaries through blockchain technology.
+#   social:
+#     - title: globe
+#       url: https://www.binance.charity/
+#     - title: facebook
+#       url: https://www.facebook.com/BinanceBCF/
+#     - title: twitter
+#       url: https://twitter.com/BinanceBCF
+
 - name: Children's Cancer Foundation
   pic: ccf
   position: Children’s Cancer Foundation (CCF) is a social service agency with a mission to improve the quality of life of children with cancer and their families and children impacted by cancer through enhancing their emotional, social and medical well-being.

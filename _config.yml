@@ -11,7 +11,7 @@ description: "This site is a public record of the Ong Lai Mun Charity Fund"
 people:
 - name: SEED
   pic: seed
-  position: Description
+  position: Pertubuhan Pembangunan Kebajikan dan Persekitaran Positif Malaysia (SEED) aims to develop the skills and capacities of the key affected populations (such as the homeless, people living with or affected by HIV and Transgender persons) to improve their quality of life.
   social:
     - title: globe
       url: https://seedfoundation.com.my/
@@ -20,7 +20,7 @@ people:
 
 - name: One Hope Charity
   pic: one_hope
-  position: Description
+  position: One Hope Charity & Welfare is a registered non-profit organization and founded in 2002 and previously, it was known as Pertubuhan Penganut Dewi Xi Wang Dian, Bukit Mertajam, Penang.
   social:
     - title: globe
       url: http://www.onehopecharity.org/
@@ -29,7 +29,7 @@ people:
 
 - name: Special Hands
   pic: special_hands
-  position: Description
+  position: Special Hands is Asia Community Service, which empower people with special needs towards a more meaningful and fulfilling life in he society, especially young children and adults with intellectual disabilities.
   social:
     - title: globe
       url: http://www.asiacommunityservice.org/
@@ -49,7 +49,7 @@ people:
 
 - name: Give.Asia
   pic: giveasia
-  position: Description
+  position: Give.Asia is an online crowdfunding charity organization.
   social:
     - title: globe
       url: https://give.asia/
@@ -58,22 +58,22 @@ people:
 
 - name: MAH LAI MUN
   pic: mahlaimun
-  position: Description
+  position: Mah Lai Mun is a young woman who got bacterial infected kidney, causing multiple organ failure and needs long term continous medical care.
   social:
     - title: facebook
       url: https://www.facebook.com/galax.tom
 
 - name: BEH SWEE CHENG
   pic: Yellow_Tulips_by_Kailanie
-  position: Description
+  position: Beh Swee Cheng is an individual who one day found a stray dog in dire need of help. She is not working under any charitable organization. Funds are collected to pay for the animal transport from the streets to the vets. 
 
 - name: CHUN YIN LING
   pic: chunyinling
-  position: Description
+  position: Chun Yin Ling is an individual animal welfare activist who help stray dogs and cats. She is not working under any charitable organization. Funds are collected to pay for the animal transport from the streets to the vets. 
 
 - name: MD. TAYUB ABU TALEK
   pic: balukhali
-  position: Tayub is a Rohingyan reside in Malaysia, where his family relatives stays at Balukhali Camp. In March 2021, a fire struck the camp. The fund is collected and delivered to Tayub's relatives at Balukhali to rebuild their camps.  
+  position: Tayub is a Rohingyan reside in Malaysia. In March 2021, a fire struck the Balukhali Camp. The fund is collected and delivered to Tayub's family relatives at Balukhali to rebuild their camp.  
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

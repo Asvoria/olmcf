@@ -1,0 +1,14 @@
+---
+title: SML Token
+subtitle: The Moon is not our destination!
+layout: default
+modal-id: 1
+date: 2021-05-02
+img: sail.png
+thumbnail: sail-thumbnail.png
+alt: image-alt
+project-date: May 2021
+description: yyy
+github-link: https://github.com/SmartLoan
+
+---
